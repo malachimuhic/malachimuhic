@@ -25,7 +25,7 @@
 ### :fire: My Stats :
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=malachimuhic&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![SatNaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=malachimuhic&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malachimuhic&layout=compact&theme=vision-friendly-dark)](https://github.com/malachimuhic/github-readme-stats)
 </div>
