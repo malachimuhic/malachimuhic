@@ -14,9 +14,7 @@
 
 ### My Name is Malachi Muhic :
 
-- I am a Computer Scientist from Eugene, Oregon.
-
-- 📚: I’m currently studying to **Computer Science** at [Bushnell University](https://www.bushnell.edu/)
+- 📚: I’m currently studying **Computer Science** at [Bushnell University](https://www.bushnell.edu/)
 
 - :mailbox: You can reach me at: [mwmuhic@yahoo.com](mailto:mwmuhic@yahoo.com).
 
