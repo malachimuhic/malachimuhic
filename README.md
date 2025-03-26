@@ -18,8 +18,6 @@
 
 - :mailbox: You can reach me at: [mwmuhic@yahoo.com](mailto:mwmuhic@yahoo.com).
 
-- :zap: In my free time, I solve problems on LeetCode and learn new skills.
-
 ---
 
 ### :fire: My Stats :
