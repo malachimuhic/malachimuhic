@@ -14,7 +14,7 @@
 
 ### My Name is Malachi Muhic :
 
-- 📚 **Bachelors of Science Computer Science** at **Bushnell University**
+- 📚 **B.S. Science Computer Science** @ **Bushnell University**
 
 - :mailbox: You can reach me at: [mwmuhic@yahoo.com](mailto:mwmuhic@yahoo.com).
 
