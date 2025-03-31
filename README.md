@@ -14,7 +14,7 @@
 
 ### My Name is Malachi Muhic :
 
-- 📚: I’m currently studying **Computer Science** at [Bushnell University](https://www.bushnell.edu/)
+- 📚 **Bachelors of Science Computer Science** at **Bushnell University**
 
 - :mailbox: You can reach me at: [mwmuhic@yahoo.com](mailto:mwmuhic@yahoo.com).
 
