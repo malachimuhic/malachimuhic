@@ -18,7 +18,7 @@
 
 - 📚 **M.S. Computer Science** @ **Georgia Institute of Technology**
 
-- :mailbox: You can reach me at: [This Email](mailto:mmuhic3@gatech.edu).
+- :mailbox: You can reach me at [This Email](mailto:mmuhic3@gatech.edu).
 
 ---
 
