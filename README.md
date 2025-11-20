@@ -16,7 +16,9 @@
 
 - 📚 **B.S. Computer Science** @ **Bushnell University**
 
-- :mailbox: You can reach me at: [mwmuhic@yahoo.com](mailto:mwmuhic@yahoo.com).
+- 📚 **M.S. Computer Science** @ **Georgia Institute of Technology**
+
+- :mailbox: You can reach me at: [This Email](mailto:mmuhic3@gatech.edu).
 
 ---
 
