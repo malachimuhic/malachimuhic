@@ -22,16 +22,6 @@
 
 ---
 
-### :fire: My Stats :
-<div align="center">
-
-![SatNaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=malachimuhic&theme=vision-friendly-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malachimuhic&layout=compact&theme=vision-friendly-dark)](https://github.com/malachimuhic/github-readme-stats)
-</div>
-
----
-
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
