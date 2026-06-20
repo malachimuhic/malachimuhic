@@ -10,7 +10,7 @@
 
 - 📚 **B.S. Computer Science** @ **Bushnell University**
 
-- 📚 **M.S. Computer Science** @ **Georgia Institute of Technology**
+- 📚 **M.S. Computer Science** @ **Georgia Institute of Technology** (In Progress)
 
 ---
 
