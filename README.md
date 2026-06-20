@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-### My Name is Malachi Muhic :
+## Malachi Muhic :
 
 - 📚 **B.S. Computer Science** @ **Bushnell University**
 
