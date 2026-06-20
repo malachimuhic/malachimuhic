@@ -15,6 +15,7 @@
 ---
 
 ### Notable Projects
+- [LoRA Research](https://github.com/malachimuhic/DeepSeek-LoRA-Finetuning-and-Inference) - Making AI models cheaper to fine-tune with LoRA
 
 ---
 ### Programming Langauges
