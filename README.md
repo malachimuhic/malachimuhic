@@ -12,6 +12,21 @@
 
 - 📚 **M.S. Computer Science** @ **Georgia Institute of Technology**
 
-- :mailbox: You can reach me at [This Email](mailto:mmuhic3@gatech.edu).
+---
+
+### Notable Projects
 
 ---
+### Programming Langauges
+- C
+- Python
+- MatLab
+- JavaScript
+- Java
+
+--- 
+### Programmers I Like
+- [Andrej Karpathy](https://karpathy.ai/)
+- [Erik Bjäreholt](https://erik.bjareholt.com/)
+- [Ian Dvorin (Magicalbat)](https://github.com/Magicalbat)
+- [Michael Paulson (Primeagen)](https://www.youtube.com/c/theprimeagen)
