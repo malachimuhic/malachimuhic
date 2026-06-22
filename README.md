@@ -16,6 +16,7 @@
 
 ### Notable Projects
 - [LoRA Research](https://github.com/malachimuhic/DeepSeek-LoRA-Finetuning-and-Inference) - Making AI model finetuning cheaper with LoRA (90%+)
+- [ML Library in C](https://github.com/malachimuhic/Cornerstone) - Building an ML library from scratch in C to recognize handwritten digits
 
 ---
 ### Programming Langauges
